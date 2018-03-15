@@ -1,0 +1,517 @@
+[27-Jan-2014 03:06:59 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/installation_status_pending.php on line 362
+[27-Jan-2014 03:07:02 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/installation_status_pending.php on line 362
+[27-Jan-2014 03:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/installation_status_pending.php on line 362
+[29-Jan-2014 04:10:53 America/Chicago] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 165
+[29-Jan-2014 04:11:15 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 141
+[29-Jan-2014 04:11:17 America/Chicago] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 167
+[29-Jan-2014 04:12:41 America/Chicago] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 167
+[29-Jan-2014 04:14:13 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 141
+[29-Jan-2014 04:50:55 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/tickets.php on line 200
+[29-Jan-2014 06:38:33 America/Chicago] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 105
+[29-Jan-2014 07:30:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 62
+[29-Jan-2014 07:30:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 62
+[29-Jan-2014 07:30:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 62
+[29-Jan-2014 07:30:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 62
+[29-Jan-2014 07:51:59 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 195
+[29-Jan-2014 07:55:50 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 195
+[29-Jan-2014 08:02:57 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 197
+[30-Jan-2014 04:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 195
+[30-Jan-2014 04:53:25 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 196
+[30-Jan-2014 04:56:25 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 196
+[30-Jan-2014 04:56:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 196
+[30-Jan-2014 04:56:28 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 196
+[30-Jan-2014 04:56:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/blisscho/public_html/gps/application/views/admin/reply.php on line 196
+[30-Jan-2014 06:52:18 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/blisscho/public_html/gps/application/controllers/device_details.php on line 182
+[11-Feb-2014 11:00:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:00:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:00:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:00:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:01:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:01:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:01:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:02:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:06:35 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ossgps/public_html/gps/application/controllers/stock.php on line 21
+[11-Feb-2014 11:21:27 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 37
+[11-Feb-2014 11:21:31 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 37
+[13-Feb-2014 06:20:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/controllers/stock.php on line 65
+[13-Feb-2014 07:02:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ossgps/public_html/gps/application/views/admin/stock_print.php on line 144
+[13-Feb-2014 07:28:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ossgps/public_html/gps/application/views/admin/stock_print.php on line 144
+[13-Feb-2014 09:00:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/stock_available.php on line 201
+[13-Feb-2014 09:32:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/stock_available.php on line 201
+[13-Feb-2014 10:02:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/stock_available.php on line 236
+[14-Feb-2014 13:51:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/assign.php on line 455
+[17-Feb-2014 13:29:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ossgps/public_html/gps/application/controllers/customer_registration.php on line 175
+[17-Feb-2014 13:29:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ossgps/public_html/gps/application/controllers/customer_registration.php on line 175
+[17-Feb-2014 13:29:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ossgps/public_html/gps/application/controllers/customer_registration.php on line 175
+[18-Feb-2014 10:00:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/installation.php on line 141
+[18-Feb-2014 10:22:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ossgps/public_html/gps/include/sidebar2.php on line 106
+[18-Feb-2014 10:34:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 157
+[19-Feb-2014 07:44:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 249
+[19-Feb-2014 07:44:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 249
+[19-Feb-2014 07:45:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 218
+[21-Feb-2014 12:42:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/order_pending.php on line 213
+[28-Feb-2014 06:53:53 UTC] PHP Parse error:  syntax error, unexpected '$oid' (T_VARIABLE), expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/payment_pending.php on line 248
+[03-Mar-2014 13:50:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ossgps/public_html/gps/application/views/admin/cash.php on line 255
+[24-Mar-2014 07:37:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/approve_order.php on line 248
+[24-Mar-2014 07:55:11 UTC] PHP Fatal error:  Call to undefined function sum() in /home/ossgps/public_html/gps/application/views/admin/view_order.php on line 622
+[24-Mar-2014 08:04:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ossgps/public_html/gps/application/views/admin/view_order.php on line 660
+[24-Mar-2014 08:04:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ossgps/public_html/gps/application/views/admin/view_order.php on line 660
+[24-Mar-2014 08:20:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/users.php on line 360
+[24-Mar-2014 08:29:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/view_order.php on line 747
+[24-Mar-2014 09:30:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ossgps/public_html/gps/include/sidebar2.php on line 53
+[24-Mar-2014 09:30:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ossgps/public_html/gps/include/sidebar2.php on line 53
+[25-Mar-2014 12:02:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 149
+[25-Mar-2014 12:30:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/checking_quality.php on line 393
+[25-Mar-2014 12:30:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/checking_quality.php on line 393
+[25-Mar-2014 12:58:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/dealer_margin.php on line 225
+[26-Mar-2014 11:03:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/assign.php on line 189
+[27-Mar-2014 12:38:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ossgps/public_html/gps/application/views/reports/invoices.php on line 225
+[27-Mar-2014 12:38:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ossgps/public_html/gps/application/views/reports/invoices.php on line 225
+[28-Mar-2014 08:29:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 138
+[28-Mar-2014 08:50:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 144
+[28-Mar-2014 09:09:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/new_stock.php on line 260
+[28-Mar-2014 09:09:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/new_stock.php on line 260
+[28-Mar-2014 09:09:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/new_stock.php on line 260
+[28-Mar-2014 09:09:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/new_stock.php on line 260
+[28-Mar-2014 09:09:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/new_stock.php on line 260
+[28-Mar-2014 12:20:30 UTC] PHP Warning:  Unterminated comment starting line 153 in /home/ossgps/public_html/gps/application/controllers/installation.php on line 153
+[28-Mar-2014 12:20:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 194
+[28-Mar-2014 12:51:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 53
+[28-Mar-2014 12:51:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 53
+[28-Mar-2014 12:54:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 54
+[28-Mar-2014 12:54:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 54
+[28-Mar-2014 12:54:11 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 54
+[03-Apr-2014 07:14:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 375
+[03-Apr-2014 07:14:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 375
+[03-Apr-2014 07:52:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 222
+[03-Apr-2014 07:55:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 222
+[03-Apr-2014 11:59:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 441
+[04-Apr-2014 07:55:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 454
+[04-Apr-2014 07:57:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 85
+[04-Apr-2014 07:57:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 127
+[04-Apr-2014 10:21:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 168
+[04-Apr-2014 10:57:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 308
+[04-Apr-2014 11:11:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/assign_engineer.php on line 90
+[04-Apr-2014 11:20:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/installation.php on line 153
+[04-Apr-2014 11:22:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 32
+[04-Apr-2014 11:22:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 32
+[04-Apr-2014 11:22:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 32
+[04-Apr-2014 11:22:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ossgps/public_html/gps/application/controllers/installation.php on line 32
+[04-Apr-2014 11:27:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/installation.php on line 47
+[04-Apr-2014 11:37:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 170
+[04-Apr-2014 11:37:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 170
+[04-Apr-2014 11:37:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 170
+[04-Apr-2014 11:37:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 170
+[04-Apr-2014 12:02:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 588
+[04-Apr-2014 12:09:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/installation.php on line 306
+[04-Apr-2014 12:11:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/installation.php on line 131
+[04-Apr-2014 13:01:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 149
+[04-Apr-2014 13:03:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 149
+[05-Apr-2014 06:50:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/assign_device.php on line 267
+[05-Apr-2014 07:11:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/dealer_margin.php on line 258
+[05-Apr-2014 07:22:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 440
+[05-Apr-2014 07:31:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 319
+[05-Apr-2014 07:31:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 319
+[05-Apr-2014 07:33:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 440
+[05-Apr-2014 07:33:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 440
+[05-Apr-2014 07:33:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 477
+[05-Apr-2014 08:01:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 552
+[05-Apr-2014 08:20:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 313
+[05-Apr-2014 08:20:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 332
+[05-Apr-2014 08:20:38 UTC] PHP Warning:  Unterminated comment starting line 347 in /home/ossgps/public_html/gps/application/controllers/installation.php on line 347
+[05-Apr-2014 08:20:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 388
+[05-Apr-2014 08:20:40 UTC] PHP Warning:  Unterminated comment starting line 347 in /home/ossgps/public_html/gps/application/controllers/installation.php on line 347
+[05-Apr-2014 08:20:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 388
+[05-Apr-2014 08:20:44 UTC] PHP Warning:  Unterminated comment starting line 347 in /home/ossgps/public_html/gps/application/controllers/installation.php on line 347
+[05-Apr-2014 08:20:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/installation.php on line 388
+[07-Apr-2014 07:02:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/approve_order.php on line 226
+[07-Apr-2014 07:21:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 149
+[07-Apr-2014 07:21:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 149
+[09-Apr-2014 08:48:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/assigned_devicelist.php on line 364
+[09-Apr-2014 11:31:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 78
+[09-Apr-2014 12:58:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ossgps/public_html/gps/application/views/admin/installation_status_pending.php on line 838
+[14-Apr-2014 07:46:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 335
+[14-Apr-2014 07:46:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 335
+[14-Apr-2014 07:46:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 335
+[15-Apr-2014 13:30:59 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 246
+[15-Apr-2014 13:31:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/order_details.php on line 70
+[24-Apr-2014 12:31:55 UTC] PHP Fatal error:  Call to undefined function generate_promo_code() in /home/ossgps/public_html/gps/application/controllers/promo_code.php on line 35
+[24-Apr-2014 13:13:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/promo_code.php on line 254
+[22-May-2014 07:23:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/view_demo_order.php on line 1095
+[22-May-2014 07:23:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/view_demo_order.php on line 1095
+[26-May-2014 07:01:35 UTC] PHP Parse error:  syntax error, unexpected '$ab' (T_VARIABLE) in /home/ossgps/public_html/gps/application/controllers/customer_registration.php on line 132
+[03-Jun-2014 06:54:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 290
+[03-Jun-2014 06:54:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 290
+[03-Jun-2014 06:54:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 307
+[03-Jun-2014 06:54:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 307
+[03-Jun-2014 07:50:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 303
+[03-Jun-2014 07:50:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/confirmed_payment_orders.php on line 303
+[03-Jun-2014 08:10:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/assigned_devicelist.php on line 323
+[03-Jun-2014 08:10:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/assigned_devicelist.php on line 323
+[03-Jun-2014 12:12:39 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1788
+[03-Jun-2014 12:12:43 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1788
+[03-Jun-2014 12:13:05 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1788
+[03-Jun-2014 12:13:07 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1788
+[03-Jun-2014 12:32:22 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/ossgps/public_html/gps/application/views/admin/convert_customer.php on line 437
+[03-Jun-2014 13:08:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 86
+[11-Jun-2014 06:50:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 06:50:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 06:51:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 06:51:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 07:30:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2575
+[11-Jun-2014 07:32:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2575
+[11-Jun-2014 07:32:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2575
+[11-Jun-2014 07:32:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2575
+[11-Jun-2014 07:32:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2575
+[11-Jun-2014 07:34:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 07:34:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 07:34:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2574
+[11-Jun-2014 07:37:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2554
+[12-Jun-2014 12:17:24 UTC] PHP Parse error:  syntax error, unexpected '$dealer_addr' (T_VARIABLE) in /home/ossgps/public_html/gps/application/views/admin/dealers.php on line 349
+[13-Jun-2014 09:07:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 86
+[13-Jun-2014 09:47:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/dc_view.php on line 67
+[13-Jun-2014 10:07:18 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/ossgps/public_html/gps/application/views/admin/dc_view.php on line 26
+[13-Jun-2014 10:07:21 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/ossgps/public_html/gps/application/views/admin/dc_view.php on line 26
+[13-Jun-2014 10:09:25 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/ossgps/public_html/gps/application/views/admin/dc_view.php on line 36
+[13-Jun-2014 10:09:27 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/ossgps/public_html/gps/application/views/admin/dc_view.php on line 36
+[20-Jun-2014 06:21:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ossgps/public_html/gps/application/views/admin/od_confirmed.php on line 305
+[02-Jul-2014 06:54:26 UTC] PHP Fatal error:  Cannot redeclare payment::foc() in /home/ossgps/public_html/gps/application/controllers/payment.php on line 60
+[02-Jul-2014 06:54:28 UTC] PHP Fatal error:  Cannot redeclare payment::foc() in /home/ossgps/public_html/gps/application/controllers/payment.php on line 60
+[02-Jul-2014 11:51:34 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[02-Jul-2014 11:51:38 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[02-Jul-2014 11:51:43 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[02-Jul-2014 11:52:13 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[02-Jul-2014 11:53:28 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[02-Jul-2014 11:53:36 UTC] PHP Fatal error:  Cannot redeclare demo_request::demo_detail_info() in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2621
+[03-Jul-2014 10:31:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 327
+[03-Jul-2014 10:37:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 325
+[03-Jul-2014 12:55:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ossgps/public_html/gps/application/controllers/convert_customer.php on line 58
+[03-Jul-2014 12:55:52 UTC] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/ossgps/public_html/gps/application/views/admin/live_customer.php on line 402
+[04-Jul-2014 06:39:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 836
+[05-Jul-2014 07:50:57 UTC] PHP Parse error:  syntax error, unexpected '$dcoid' (T_VARIABLE), expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/demo_dc_view.php on line 120
+[18-Jul-2014 10:19:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 836
+[18-Jul-2014 10:36:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 131
+[18-Jul-2014 10:36:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 208
+[18-Jul-2014 10:36:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 208
+[18-Jul-2014 10:36:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 208
+[18-Jul-2014 10:37:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 716
+[18-Jul-2014 11:09:44 UTC] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 773
+[18-Jul-2014 11:32:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 326
+[18-Jul-2014 11:33:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 833
+[18-Jul-2014 11:39:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 45
+[18-Jul-2014 11:41:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[18-Jul-2014 11:56:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[18-Jul-2014 11:58:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[18-Jul-2014 12:01:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 324
+[06-Aug-2014 05:58:05 UTC] PHP Warning:  Unterminated comment starting line 221 in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 221
+[06-Aug-2014 05:58:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/order_confirmed.php on line 222
+[06-Aug-2014 06:24:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_completed.php on line 203
+[06-Aug-2014 06:24:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/installation_status_completed.php on line 247
+[06-Aug-2014 12:18:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 94
+[06-Aug-2014 12:19:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:19:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[06-Aug-2014 12:20:44 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ossgps/public_html/gps/test.php on line 95
+[14-Aug-2014 11:14:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 222
+[14-Aug-2014 11:15:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 222
+[14-Aug-2014 12:43:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 450
+[14-Aug-2014 12:43:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 450
+[14-Aug-2014 13:30:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 507
+[14-Aug-2014 13:30:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 507
+[14-Aug-2014 13:31:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 507
+[14-Aug-2014 13:31:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 507
+[14-Aug-2014 13:31:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 448
+[14-Aug-2014 13:31:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 448
+[14-Aug-2014 13:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2582
+[16-Aug-2014 05:03:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 291
+[16-Aug-2014 05:03:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ossgps/public_html/gps/application/views/admin/demo_requestlist.php on line 291
+[22-Aug-2014 09:22:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 627
+[22-Aug-2014 09:25:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[22-Aug-2014 09:25:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 1237
+[22-Aug-2014 09:26:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[22-Aug-2014 09:27:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 45
+[22-Aug-2014 09:27:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 708
+[22-Aug-2014 09:28:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 1001
+[10-Sep-2014 10:22:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/assign_metrack.php on line 219
+[11-Sep-2014 07:30:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 708
+[13-Sep-2014 10:54:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/assign_metrack.php on line 189
+[23-Sep-2014 12:31:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/add_metrackdevice.php on line 159
+[26-Sep-2014 11:08:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1312
+[26-Sep-2014 11:09:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1312
+[26-Sep-2014 11:09:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1312
+[26-Sep-2014 11:09:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 1312
+[15-Oct-2014 07:18:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 2163
+[25-Oct-2014 04:52:08 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/demo_order_confirmed.php on line 520
+[25-Oct-2014 04:52:10 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ossgps/public_html/gps/application/views/admin/demo_order_confirmed.php on line 520
+[20-Nov-2014 12:16:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 326
+[22-Nov-2014 05:40:22 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 760
+[22-Nov-2014 05:40:23 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 760
+[27-Nov-2014 05:51:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 89
+[09-Dec-2014 10:15:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/addimei.php on line 252
+[09-Dec-2014 10:15:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ossgps/public_html/gps/application/views/admin/addimei.php on line 252
+[15-Dec-2014 13:22:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 876
+[12-Jan-2015 09:51:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/customer_registration.php on line 820
+[14-Jan-2015 11:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/include/sidebar2.php on line 89
+[03-Feb-2015 07:22:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/controllers/demo_request.php on line 2380
+[05-Feb-2015 12:52:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 210
+[20-Feb-2015 05:28:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 839
+[20-Feb-2015 05:30:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 839
+[20-Feb-2015 05:31:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 720
+[20-Feb-2015 05:32:15 UTC] PHP Parse error:  syntax error, unexpected ''no' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 283
+[20-Feb-2015 05:43:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 217
+[20-Feb-2015 11:16:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 920
+[20-Feb-2015 11:16:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 976
+[20-Feb-2015 11:16:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 976
+[20-Feb-2015 11:22:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 798
+[20-Feb-2015 11:26:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 160
+[20-Feb-2015 11:26:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 798
+[20-Feb-2015 11:26:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 847
+[20-Feb-2015 11:31:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 290
+[20-Feb-2015 11:31:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 345
+[20-Feb-2015 11:31:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ossgps/public_html/gps/application/views/admin/invoiceformat.php on line 418
+[07-Mar-2015 06:00:01 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:01 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:01 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:01 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[07-Mar-2015 06:00:03 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[08-Mar-2015 06:00:02 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/ogtslive/public_html/gps/demoextend.php on line 6
+[20-Mar-2015 12:28:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/renewal.php on line 1140
+[20-Mar-2015 12:47:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/controllers/subscription_renewal.php on line 1299
+[13-Apr-2015 16:21:05 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/ogtslive/public_html/gps/application/views/admin/master.php on line 284
+[13-Apr-2015 18:31:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 690
+[13-Apr-2015 18:32:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 690
+[13-Apr-2015 18:32:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 690
+[13-Apr-2015 18:32:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 690
+[13-Apr-2015 18:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 690
+[13-Apr-2015 18:44:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/alert.php on line 132
+[14-Apr-2015 11:06:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ogtslive/public_html/gps/application/views/admin/alert.php on line 39
+[14-Apr-2015 11:17:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function strtotie() in /home/ogtslive/public_html/gps/application/views/admin/alert.php on line 311
+[14-Apr-2015 12:38:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/alert.php on line 230
+[14-Apr-2015 14:39:03 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 5 in /home/ogtslive/public_html/gps/application/views/admin/master.php on line 5
+[14-Apr-2015 15:19:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/master.php on line 286
+[15-Apr-2015 17:07:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '!' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 994
+[15-Apr-2015 17:39:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 815
+[19-May-2015 17:06:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/support/support_staff.php on line 381
+[21-May-2015 12:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2333
+[21-May-2015 12:17:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2333
+[21-May-2015 12:18:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2333
+[21-May-2015 12:18:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2333
+[21-May-2015 12:18:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2333
+[29-May-2015 17:01:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 431
+[29-May-2015 17:01:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 431
+[29-May-2015 17:06:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 319
+[29-May-2015 17:06:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 319
+[29-May-2015 17:08:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 272
+[04-Jun-2015 16:52:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ogtslive/public_html/gps/application/controllers/assign_device.php on line 277
+[04-Jun-2015 16:52:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ogtslive/public_html/gps/application/controllers/assign_device.php on line 277
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): Too many connections in /home/ogtslive/public_html/gps/dbcon.php on line 2
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_select_db(): Too many connections in /home/ogtslive/public_html/gps/dbcon.php on line 4
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/ogtslive/public_html/gps/dbcon.php on line 4
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_query(): Too many connections in /home/ogtslive/public_html/gps/demoextend.php on line 3
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/ogtslive/public_html/gps/demoextend.php on line 3
+[10-Jun-2015 01:00:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/ogtslive/public_html/gps/demoextend.php on line 4
+[06-Jul-2015 18:47:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 479
+[06-Jul-2015 18:47:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 800
+[06-Jul-2015 18:49:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 231
+[06-Jul-2015 18:49:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 1043
+[06-Jul-2015 18:49:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 1043
+[20-Jul-2015 15:48:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ogtslive/public_html/gps/application/controllers/stock.php on line 137
+[01-Aug-2015 16:56:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getDevStat() in /home/ogtslive/public_html/gps/application/views/admin/tamper.php on line 263
+[17-Aug-2015 14:57:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting identifier (T_STRING) in /home/ogtslive/public_html/gps/application/controllers/sublogins.php on line 39
+[25-Aug-2015 12:01:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/order_confirmed.php on line 173
+[12-Sep-2015 12:48:57 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Sep-2015 13:05:39 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Sep-2015 13:10:32 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Sep-2015 13:13:31 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Oct-2015 13:16:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/customer_basic_data.php on line 165
+[08-Oct-2015 17:19:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 89
+[09-Oct-2015 12:01:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 1234
+[10-Oct-2015 14:47:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/ogtslive/public_html/gps/application/controllers/stock_upload.php on line 68
+[15-Oct-2015 17:53:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 617
+[15-Oct-2015 18:19:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 479
+[16-Oct-2015 17:23:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/admin/invoiceformat.php on line 855
+[19-Oct-2015 15:56:10 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 62 in /home/ogtslive/public_html/gps/application/controllers/delete_customer.php on line 62
+[19-Oct-2015 15:56:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/controllers/delete_customer.php on line 70
+[19-Oct-2015 16:01:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/customer_delete.php on line 264
+[19-Oct-2015 16:01:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/customer_delete.php on line 264
+[19-Oct-2015 16:01:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/admin/customer_delete.php on line 264
+[31-Oct-2015 13:02:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:02:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:02:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:02:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:02:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[31-Oct-2015 13:03:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ogtslive/public_html/gps/application/controllers/invoices.php on line 23
+[19-Nov-2015 16:39:00 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-Nov-2015 10:02:10 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[23-Nov-2015 11:47:32 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Nov-2015 11:16:23 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Nov-2015 10:02:24 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[08-Dec-2015 13:43:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 2281
+[22-Dec-2015 10:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 1758
+[21-Jan-2016 12:29:01 Asia/Kolkata] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[01-Feb-2016 17:02:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 85
+[01-Feb-2016 17:02:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 58
+[01-Feb-2016 17:02:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 87
+[01-Feb-2016 17:02:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 87
+[01-Feb-2016 17:02:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 87
+[01-Feb-2016 17:02:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 87
+[01-Feb-2016 17:02:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details.php on line 96
+[02-Feb-2016 13:47:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/controllers/customer_sim_details.php on line 41
+[02-Feb-2016 13:47:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/controllers/customer_sim_details.php on line 41
+[02-Feb-2016 13:47:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/controllers/customer_sim_details.php on line 41
+[03-Feb-2016 11:14:48 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 210 in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details2.php on line 210
+[03-Feb-2016 11:14:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/reports/customer_sim_details2.php on line 212
+[03-Feb-2016 16:30:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/application/views/reports/customer_device_status.php on line 212
+[03-Feb-2016 16:42:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_device_status.php on line 289
+[03-Feb-2016 16:42:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ogtslive/public_html/gps/application/views/reports/customer_device_status.php on line 289
+[08-Feb-2016 10:35:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 89
+[08-Feb-2016 10:35:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ogtslive/public_html/gps/include/sidebar2.php on line 1985
+[29-Feb-2016 14:10:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ogtslive/public_html/gps/application/views/reports/subscription_summary.php on line 68

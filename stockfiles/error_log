@@ -1,0 +1,143 @@
+[12-Feb-2014 08:17:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[12-Feb-2014 08:22:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[12-Feb-2014 08:22:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[12-Feb-2014 09:41:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getdc.php on line 6
+[12-Feb-2014 12:42:26 UTC] PHP Warning:  mysqli_query(): Access denied for user 'ossgps'@'localhost' (using password: NO) in /home/ossgps/public_html/gps/stockfiles/getrows.php on line 10
+[12-Feb-2014 12:42:26 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/ossgps/public_html/gps/stockfiles/getrows.php on line 10
+[12-Feb-2014 12:42:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getrows.php on line 11
+[12-Feb-2014 12:42:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/ossgps/public_html/gps/stockfiles/getrows.php on line 44
+[12-Feb-2014 13:09:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[12-Feb-2014 13:09:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getdc.php on line 6
+[12-Feb-2014 13:10:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[13-Feb-2014 11:23:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[13-Feb-2014 11:23:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[13-Feb-2014 11:24:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getinv.php on line 6
+[22-Apr-2014 10:25:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ossgps/public_html/gps/stockfiles/getimei.php on line 9
+[16-Mar-2015 14:45:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ogtslive/public_html/gps/stockfiles/getimei.php on line 9
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:56 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:57 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:17:58 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:17:58 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:17:58 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:17:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:27:08 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:27:08 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:27:08 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:27:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:30:10 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:30:10 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:10 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 10
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 11
+[16-Jan-2017 06:30:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, null given in /home/trackingway2gps/public_html/stockfiles/getrows.php on line 45
+[16-Jan-2017 06:30:34 UTC] PHP Deprecated:  mysqli_connect(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_connect(): Access denied for user 'ogtslive_admin'@'localhost' (using password: YES) in /home/trackingway2gps/public_html/dbcon.php on line 2
+[16-Jan-2017 06:30:34 UTC] PHP Deprecated:  mysqli_select_db(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_select_db(): A link to the server could not be established in /home/trackingway2gps/public_html/dbcon.php on line 4
+[16-Jan-2017 06:30:34 UTC] PHP Deprecated:  mysqli_query(): The mysqli extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trackingway2gps/public_html/stockfiles/getimei.php on line 8
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_query(): Access denied for user ''@'localhost' (using password: NO) in /home/trackingway2gps/public_html/stockfiles/getimei.php on line 8
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_query(): A link to the server could not be established in /home/trackingway2gps/public_html/stockfiles/getimei.php on line 8
+[16-Jan-2017 06:30:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/trackingway2gps/public_html/stockfiles/getimei.php on line 9

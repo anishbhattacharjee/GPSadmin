@@ -1,0 +1,6 @@
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(../assets/support/tags.png): failed to open stream: No such file or directory in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLEjUWV' to '../assets/support/tags.png' in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(../assets/support/testing.txt): failed to open stream: No such file or directory in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpel9yvB' to '../assets/support/testing.txt' in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(../assets/support/testing2.txt): failed to open stream: No such file or directory in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
+[19-May-2015 16:07:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJSme4g' to '../assets/support/testing2.txt' in /home/ogtslive/public_html/gps/ajaxfiles/support/ticket_open.php on line 36
